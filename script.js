@@ -365,8 +365,8 @@ const timeline = [
   },
   {
     type: 'education',
-    title: 'Pre-University Education in Science (Physical Group)',
-    organization: 'NIST College, Banepa',
+    title: 'Pre-University Education in Science (Physical Stream)',
+    organization: 'NIST College | Nayabasti Nala Road, Banepa',
     period: 'Sep 2020 - May 2022',
     description: [
       'Focused on Physics, Chemistry, and Mathematics.',
@@ -377,7 +377,7 @@ const timeline = [
     type: 'education',
     title: 'Academic Foundation',
     organization: 'Shree Janak Secondary School | Bhakundebesi, Kashikhanda',
-    period: 'Apr 2013 - Mar 2020',
+    period: 'Apr 2015 - Mar 2020',
     description: [
       'Completed foundational education with a strong academic record.',
       'Excelled in Mathematics and Science subjects.',
